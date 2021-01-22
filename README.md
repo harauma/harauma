@@ -1,4 +1,11 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=harauma)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harauma&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harauma" />
+</a>
 
 <!--
 **harauma/harauma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
